@@ -59,3 +59,5 @@ const startLogOutTimer = () => {
 };
 
 startLogOutTimer();
+
+console.log("TEST");
